@@ -1,9 +1,29 @@
 {
   "properties": [
     {
-      "name": "sfg.brewery.apiHost",
+      "name": "sfg.brewery.api-host",
       "type": "java.lang.String",
       "description": "API host."
+    },
+    {
+      "name": "sfg.max-total-connections",
+      "type": "java.lang.String",
+      "description": "Max total connections."
+    },
+    {
+      "name": "sfg.default-max-total-connections",
+      "type": "java.lang.String",
+      "description": "Default max total connections per route."
+    },
+    {
+      "name": "sfg.connection-request-timeout",
+      "type": "java.lang.String",
+      "description": "Connection request timeout."
+    },
+    {
+      "name": "sfg.socket-timeout",
+      "type": "java.lang.String",
+      "description": "Socket timeout."
     }
   ]
 }
