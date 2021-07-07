@@ -29,4 +29,8 @@ public class BreweryClient {
   public URI saveNewBeer(BeerDto beerDto) {
     return restTemplate.postForLocation(apiHost + BEER_PATH, beerDto);
   }
+
+  public void updateBeer(UUID id, BeerDto beerDto) {
+    restTemplate.put(apiHost + BEER_PATH + id.toString(), beerDto);
+  }
 }
