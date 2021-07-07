@@ -1,4 +1,4 @@
-package com.example.msscbreweryclient.web.model;
+package com.folieson.msscbreweryclient.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

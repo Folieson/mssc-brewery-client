@@ -1,4 +1,4 @@
-package com.example.msscbreweryclient.web.config;
+package com.folieson.msscbreweryclient.web.config;
 
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.impl.client.CloseableHttpClient;

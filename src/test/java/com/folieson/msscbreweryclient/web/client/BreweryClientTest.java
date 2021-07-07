@@ -1,7 +1,7 @@
-package com.example.msscbreweryclient.web.client;
+package com.folieson.msscbreweryclient.web.client;
 
-import com.example.msscbreweryclient.web.model.BeerDto;
-import com.example.msscbreweryclient.web.model.CustomerDto;
+import com.folieson.msscbreweryclient.web.model.BeerDto;
+import com.folieson.msscbreweryclient.web.model.CustomerDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

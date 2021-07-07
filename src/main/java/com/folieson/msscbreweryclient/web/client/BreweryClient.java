@@ -1,7 +1,7 @@
-package com.example.msscbreweryclient.web.client;
+package com.folieson.msscbreweryclient.web.client;
 
-import com.example.msscbreweryclient.web.model.BeerDto;
-import com.example.msscbreweryclient.web.model.CustomerDto;
+import com.folieson.msscbreweryclient.web.model.BeerDto;
+import com.folieson.msscbreweryclient.web.model.CustomerDto;
 import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.web.client.RestTemplateBuilder;

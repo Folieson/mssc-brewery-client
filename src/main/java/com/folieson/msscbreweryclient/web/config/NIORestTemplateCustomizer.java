@@ -1,4 +1,4 @@
-package com.example.msscbreweryclient.web.config;
+package com.folieson.msscbreweryclient.web.config;
 
 import org.apache.http.impl.nio.client.CloseableHttpAsyncClient;
 import org.apache.http.impl.nio.client.HttpAsyncClients;
